@@ -8,3 +8,8 @@ Usage:
 	python wiki.py --summary "Barack Obama"
 
 
+Todo:
+
+Search Feature
+Save to text file feature
+
